@@ -1,0 +1,2 @@
+# susCoin
+sus
