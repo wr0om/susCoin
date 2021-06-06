@@ -26,6 +26,13 @@ Proof of concept (Sending some SUS to another address) shown with MetaMask:
 .
 
 .
+
+.
+
+
+.
+
+.
 You can do many things with susCoin, like sending them to your sus friends or to purchase weapons on the dark web (;
 
 
