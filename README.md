@@ -9,4 +9,4 @@ You can do many things with susCoin, like sending them to your sus friends.
 
 
 
-[BE THERE OR BE IMPOSTER.]
+*BE THERE OR BE IMPOSTER.*
