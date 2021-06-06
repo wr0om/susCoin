@@ -8,21 +8,24 @@ Proof of concept (Sending some SUS to another address) shown with MetaMask:
 ![image](https://user-images.githubusercontent.com/59180254/120929783-1664f600-c6f3-11eb-9d04-0d1bbf541b5a.png)
 
 
+.
 
 
 
+.
 
 
 
+.
 
 
 
+.
 
 
+.
 
-
-
-
+.
 You can do many things with susCoin, like sending them to your sus friends or to purchase weapons on the dark web (;
 
 
