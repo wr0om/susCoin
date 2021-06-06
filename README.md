@@ -1,6 +1,6 @@
 # susCoin
 
-susCoin is a new and innovative coin that uses the ethereum network (only the Ropsen test network for now).
+susCoin is a new and innovative coin that uses the Ethereum network (only the Ropsen test network for now).
 
 You can do many things with susCoin, like sending them to your sus friends or to purchase weapons on the dark web (;
 
