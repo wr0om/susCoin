@@ -43,7 +43,7 @@ contract susCoin is EIP20Interface {
         if (allowance < MAX_UINT256) {
             allowed[_from][msg.sender] -= _value;
         }
-        emit Transfer(_from, _to, _value); //solhint-disable-line indent, no-unused-vars
+        emit Transfer(_from, _to, _value); 
         return true;
     }
 
