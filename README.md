@@ -47,4 +47,4 @@ You can do many things with susCoin, like sending them to your sus friends or to
 
 
 
-*BE THERE OR BE IMPOSTER.*
+*BE THERE OR BE THE IMPOSTER.*
