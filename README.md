@@ -5,7 +5,7 @@ This coin is a JOKE and was done for the sole purpose of learning about the Ethe
 ## About
 susCoin (or SUS) is a new and innovative coin that uses the Ethereum network (only the Ropsen test network for now) for transactions.
 
-Was made and deoloyed in [remix](http://remix.ethereum.org/).
+Was made and deployed in [remix](http://remix.ethereum.org/).
 
 Proof of concept (Sending some SUS to another address) shown with MetaMask:
 
