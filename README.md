@@ -1,5 +1,5 @@
 
-## Disclaimer
+## DISCLAIMER
 This coin is a JOKE and was done for the sole purpose of learning about the Ethereum network.
 
 ## About
