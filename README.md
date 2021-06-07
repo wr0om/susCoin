@@ -1,5 +1,9 @@
 # susCoin
 
+## Disclaimer
+This coin is a joke and was done for the sole purpose of learning about the Ethereum network.
+
+## About
 susCoin (or SUS) is a new and innovative coin that uses the Ethereum network (only the Ropsen test network for now).
 
 Done in [remix](http://remix.ethereum.org/).
